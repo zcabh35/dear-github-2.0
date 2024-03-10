@@ -480,6 +480,7 @@ Signed,
 - Leo Nesfield, @thelmgn (Open source developer)
 - William Newell, @w-n-c (Web Developer)
 - Liam Newman, @bitwiseman (Jenkins project contributor, github-api, js-beautify)
+- Dr Vincent Nguyen, @zcabh35 (Epidemiologist)
 - Vui Nguyen, @vuinguyen (iOS and JavaScript Contributor of open-source projects)
 - v0idifier Nickname, @makmm (Free Software Hacker)
 - Luna Nielsen, @Member1221 (Glimpse, PolyplexEngine)
